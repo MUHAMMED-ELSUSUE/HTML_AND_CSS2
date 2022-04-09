@@ -1251,8 +1251,9 @@ iframe{
    .footer .container{
     position: relative;
    }
-   .footer .ico-M{
+   .footer .i-M{
     margin-bottom: 20px;
+    font-size: 43px;
    }
    .footer p:not(.copyright){
     text-transform: uppercase;
@@ -1296,13 +1297,16 @@ iframe{
 }
 .fa-facebook:before {
     content: "\f09a";
-    font-size: 43px;
+    font-size: 20px;
 }
 .fa-instagram:before {
     content: "\f16d";
-    font-size: 43px;
+    font-size: 20px;
 }
 .fa-twitter:before {
     content: "\f099";
-    font-size: 43px;
+    font-size: 20px;
+}
+.po .container .logo .i-M{
+    font-size: 20px;
 }
