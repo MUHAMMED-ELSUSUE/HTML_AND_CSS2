@@ -103,6 +103,7 @@ ul{
 .fa-m:before {
     content: "\4d";
     color: var(--muh-color);
+    font-size: 43px;
 }
 
 header{
@@ -1289,3 +1290,19 @@ iframe{
     color: var(--muh-color);
    }
   /* end footer */
+  .fa-magnifying-glass:before {
+    content: "\f002";
+    font-size: 43px;
+}
+.fa-facebook:before {
+    content: "\f09a";
+    font-size: 43px;
+}
+.fa-instagram:before {
+    content: "\f16d";
+    font-size: 43px;
+}
+.fa-twitter:before {
+    content: "\f099";
+    font-size: 43px;
+}
